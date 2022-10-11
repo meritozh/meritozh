@@ -1,3 +1,2 @@
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Compiler
-- 👯 I’m currently building a personal webstie, with many amazing features
+- Working in _TikTok E-Commerce Client_ team.
+- Learning how to build a high performance distributed database management system. Ready for transformation.
