@@ -1,2 +1,3 @@
 - Working in _TikTok E-Commerce Client_ team.
-- Learning how to build a high performance distributed database management system. Ready for transformation.
+- Learning how to build a high performance distributed database management system, graphic technology, machine learning based on neural network.
+- Try to design and product an 2d-platformer game with my friends.
