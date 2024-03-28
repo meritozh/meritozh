@@ -1,3 +1,4 @@
-- Working in _TikTok E-Commerce Client_ team.
+- Working in ByteDance _Flow_ team.
 - Learning how to build a high performance distributed database management system, graphic technology, machine learning based on neural network.
-- Try to design and product an 2d-platformer game with my friends.
+- Try to design and product an 2d-platformer game.
+- Building a trading system for A-stock, used by myself.
